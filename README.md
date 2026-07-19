@@ -1,7 +1,5 @@
 # Hi, I'm Osama 👋
 
-Founder of ScholyHub.
-
 I build AI-powered products that solve real problems.
 
 ## Currently Building
