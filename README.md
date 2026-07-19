@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Osama 👋
 
-<!--
-**osamabinjannat/osamabinjannat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of ScholyHub.
 
-Here are some ideas to get you started:
+I build AI-powered products that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+
+🚀 ScholyHub | Remotire | GreenRozgar
+🎯 AI Marketing Tools
+🤖 AI Automations
+🌍 Study Abroad Platform
+
+## Tech I'm Learning
+
+- Next.js
+- TypeScript
+- Supabase
+- Tailwind CSS
+- AI Agents
+
+## Connect
+
+🌐 https://osamabinjannat.com
+💼 https://www.linkedin.com/in/osama-bin-jannat-/
+📧 osamabinjannat@gmail.com
