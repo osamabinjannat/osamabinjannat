@@ -21,4 +21,4 @@ I build AI-powered products that solve real problems.
 
 🌐 https://osamabinjannat.com
 💼 https://www.linkedin.com/in/osama-bin-jannat-/
-📧 osamabinjannat@gmail.com
+📧 hello@osamabinjannat.com
