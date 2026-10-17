@@ -1,110 +1,87 @@
-# Hey, I'm Osama Bin Jannat 👋
+<div align="center">
 
-### Founder · AI Product Builder · People & Operations Leader
+# Hey, I'm Osama 👋
 
-I build products, grow remote teams, and explore how AI can solve real business problems. My work sits at the intersection of technology, entrepreneurship, people, and operations.
+<a href="https://www.osamabinjannat.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C6CF2&center=true&vCenter=true&width=600&lines=People+leader+by+day%2C+vibe+coder+by+night.;Building+with+Claude%2C+Cursor+%26+Codex.;Not+a+developer.+Still+shipping." alt="People leader by day, vibe coder by night." />
+</a>
 
-I believe good products start with real problems, clear thinking, and the willingness to keep building.
+Founder of **ScholyHub** & **Remotire** · Chief People Officer at **Z360** · Islamabad 🇵🇰
 
-🌐 [Personal Website](https://www.osamabinjannat.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/osama-bin-jannat-/) · 📧 [Email](mailto:hello@osamabinjannat.com)
+[![Website](https://img.shields.io/badge/Website-1a1725?style=flat-square&logo=googlechrome&logoColor=white)](https://www.osamabinjannat.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-bin-jannat-/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/osamabinjannat)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@osamabinjannat.com)
 
----
-
-## 🚀 What I'm Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 ScholyHub
-
-A study abroad platform helping students discover universities, scholarships, and international education opportunities.
-
-**Focus:** EdTech, student discovery, admissions
-
-[Explore ScholyHub](https://scholyhub.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 Remotire
-
-A remote jobs platform connecting professionals with remote career opportunities and helping companies reach global talent.
-
-**Focus:** Future of work, remote hiring
-
-[Explore Remotire](https://www.remotire.com/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 GreenRozgar
-
-Exploring ways to connect employment opportunities, sustainable growth, and meaningful impact.
-
-**Focus:** Employment, sustainability
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Products & Automations
-
-Exploring AI marketing tools, intelligent agents, and automated workflows that help businesses work smarter.
-
-**Focus:** AI, SaaS, automation
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Technology & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
-**Currently exploring:** AI agents, LLM-powered applications, product development, and business process automation.
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=osamabinjannat&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Osama's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamabinjannat&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=osamabinjannat&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
-## 💡 What I Care About
-
-- Building products that solve meaningful problems
-- Turning ideas into useful digital experiences
-- Applying AI to real business workflows
-- Building teams and systems that scale
-- Learning through experimentation and shipping products
-
-## 🌍 Beyond the Screen
-
-When I'm not working on products or business operations, you'll probably find me exploring new ideas, learning something technical, hiking in the mountains, or planning the next thing to build.
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://www.osamabinjannat.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/osamabinjannat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/osama-bin-jannat-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:hello@osamabinjannat.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Build with purpose. Learn by doing. Make things that matter. 🚀</i>
+### 🧠 The short version
+
+I'm not a developer by training. I'm a people person who got tired of waiting for someone else to build the tools I needed, so I started building them myself with AI.
+
+Hiring is my day job, so most of my ideas come from the same place: getting people to the right opportunities.
+
+### ⚡ Right now
+
+- 🔨 Building **Remotire**, so global startups can hire great people from Pakistan
+- 🎓 Growing **ScholyHub**, helping students find universities and scholarships abroad
+- 🤖 Playing with AI agents that take the boring parts out of recruiting and HR
+- 🌱 Sketching out **GreenRozgar**: jobs × sustainability
+- 💼 Day job: leading people at [Z360](https://z360.ai), an AI-powered CRM
+
+### 🚢 Things I've shipped
+
+| Project | What it is | Status |
+|---|---|:---:|
+| 🎓 **[ScholyHub](https://scholyhub.com)** | Universities, scholarships and admissions in one searchable place | ![Live](https://img.shields.io/badge/Live-2ea44f?style=flat-square) |
+| 💼 **[Remotire](https://www.remotire.com)** | Pre-vetted talent from Pakistan for US & EU startups | ![Live](https://img.shields.io/badge/Live-2ea44f?style=flat-square) |
+| 🌐 **[osamabinjannat.com](https://www.osamabinjannat.com)** | My personal site and blog | ![Live](https://img.shields.io/badge/Live-2ea44f?style=flat-square) |
+| 🌱 **GreenRozgar** | Jobs × sustainability | ![Cooking](https://img.shields.io/badge/Cooking-f0ad4e?style=flat-square) |
+
+👩‍💻 *Developer in Pakistan looking for remote work? [Remotire might be for you →](https://www.remotire.com/get-hired)*
+
+### 🤖 My dev team
+
+I describe it. AI builds it. I break it. We fix it together.
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
 </p>
+
+Most of my projects end up running on:
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,supabase,tailwind" alt="Next.js, TypeScript, React, Supabase, Tailwind CSS" />
+
+### 💬 Ask me about
+
+Vibe coding as a non-developer · building remote teams · starting something from zero · studying abroad on a scholarship
+
+### 🎲 Random facts
+
+- I've read 56,000+ resumes, so I have *opinions*
+- I once joined a company with zero HR and hired 150+ people into it
+- My best ideas show up halfway up a mountain 🏔️
+
+### ✍️ I also write
+
+Short essays on hiring and using AI at work → [osamabinjannat.com/blog](https://www.osamabinjannat.com/blog)
+
+<!--
+GitHub stats: turn these back on once you have a few public repos.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=osamabinjannat&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=osamabinjannat&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+-->
+
+---
+
+<div align="center">
+
+*Build with purpose. Learn by doing. Make things that matter.* 🚀
+
+</div>
