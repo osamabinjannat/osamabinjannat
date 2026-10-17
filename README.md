@@ -3,7 +3,7 @@
 # Hey, I'm Osama 👋
 
 <a href="https://www.osamabinjannat.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C6CF2&center=true&vCenter=true&width=600&lines=People+leader+by+day%2C+vibe+coder+by+night.;Building+with+Claude%2C+Cursor+%26+Codex.;Not+a+developer.+Still+shipping." alt="People leader by day, vibe coder by night." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C6CF2&center=true&vCenter=true&width=600&lines=People+leader+by+day%2C+vibe+coder+by+night.;Building+with+Claude%2C+Cursor+%26+Codex.;Not+a+developer.+Still+shipping.;AI+drafts%2C+humans+decide." alt="People leader by day, vibe coder by night." />
 </a>
 
 Founder of **ScholyHub** & **Remotire** · Chief People Officer at **Z360** · Islamabad 🇵🇰
@@ -21,13 +21,32 @@ Founder of **ScholyHub** & **Remotire** · Chief People Officer at **Z360** · I
 
 I'm not a developer by training. I'm a people person who got tired of waiting for someone else to build the tools I needed, so I started building them myself with AI.
 
-Hiring is my day job, so most of my ideas come from the same place: getting people to the right opportunities.
+Hiring is my day job, so most of my ideas come from the same place: getting people to the right opportunities. Lately I've started open-sourcing what I know about it.
+
+### 🧰 Featured: [remote-hiring-skills](https://github.com/osamabinjannat/remote-hiring-skills)
+
+**Free AI skills for remote and cross-border hiring. AI drafts, humans decide.**
+
+Eight skills that help recruiters, founders and hiring managers with role briefs, scorecards, job posts, interview kits, debriefs, candidate emails, onboarding plans and time-to-hire audits. They're built from 150+ real hires and work in Claude Code, Claude.ai, Codex, Cursor or any AI chat. They draft and structure. They never rank or reject real people.
+
+[![Stars](https://img.shields.io/github/stars/osamabinjannat/remote-hiring-skills?style=flat-square&color=7C6CF2)](https://github.com/osamabinjannat/remote-hiring-skills/stargazers)
+[![Skills](https://img.shields.io/badge/skills-8-1a1725?style=flat-square)](https://github.com/osamabinjannat/remote-hiring-skills#the-skills)
+[![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square)](https://github.com/osamabinjannat/remote-hiring-skills/blob/main/LICENSE)
+
+Try it in Claude Code:
+
+```
+/plugin marketplace add osamabinjannat/remote-hiring-skills
+/plugin install remote-hiring-skills@remote-hiring-skills
+```
+
+[Explore the skills →](https://github.com/osamabinjannat/remote-hiring-skills) · [Read how I hire →](https://github.com/osamabinjannat/remote-hiring-skills/blob/main/docs/hiring-playbook.md)
 
 ### ⚡ Right now
 
+- 🧰 Adding new skills to **remote-hiring-skills**, starting with outreach messages and reference checks
 - 🔨 Building **Remotire**, so global startups can hire great people from Pakistan
 - 🎓 Growing **ScholyHub**, helping students find universities and scholarships abroad
-- 🤖 Playing with AI agents that take the boring parts out of recruiting and HR
 - 🌱 Sketching out **GreenRozgar**: jobs × sustainability
 - 💼 Day job: leading people at [Z360](https://z360.ai), an AI-powered CRM
 
@@ -35,6 +54,7 @@ Hiring is my day job, so most of my ideas come from the same place: getting peop
 
 | Project | What it is | Status |
 |---|---|:---:|
+| 🧰 **[remote-hiring-skills](https://github.com/osamabinjannat/remote-hiring-skills)** | Free, open-source AI skills for remote and cross-border hiring | ![Open source](https://img.shields.io/badge/Open_source-7C6CF2?style=flat-square) |
 | 🎓 **[ScholyHub](https://scholyhub.com)** | Universities, scholarships and admissions in one searchable place | ![Live](https://img.shields.io/badge/Live-2ea44f?style=flat-square) |
 | 💼 **[Remotire](https://www.remotire.com)** | Pre-vetted talent from Pakistan for US & EU startups | ![Live](https://img.shields.io/badge/Live-2ea44f?style=flat-square) |
 | 🌐 **[osamabinjannat.com](https://www.osamabinjannat.com)** | My personal site and blog | ![Live](https://img.shields.io/badge/Live-2ea44f?style=flat-square) |
@@ -58,7 +78,7 @@ Most of my projects end up running on:
 
 ### 💬 Ask me about
 
-Vibe coding as a non-developer · building remote teams · starting something from zero · studying abroad on a scholarship
+Vibe coding as a non-developer · using AI in hiring without letting it judge people · building remote teams · starting something from zero · studying abroad on a scholarship
 
 ### 🎲 Random facts
 
@@ -71,7 +91,7 @@ Vibe coding as a non-developer · building remote teams · starting something fr
 Short essays on hiring and using AI at work → [osamabinjannat.com/blog](https://www.osamabinjannat.com/blog)
 
 <!--
-GitHub stats: turn these back on once you have a few public repos.
+GitHub stats: turn these back on once you have a few more public repos.
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=osamabinjannat&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com?user=osamabinjannat&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
